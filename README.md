@@ -39,6 +39,4 @@ This repository includes all the necessary code, datasets, and documentation to 
 - **train.csv:** Contains the training data for sentiment analysis.
 - **test.csv:** Used to evaluate the model's accuracy.
 
-## License
 
-This project is licensed under MIT.
