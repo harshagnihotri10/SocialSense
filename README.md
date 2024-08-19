@@ -7,3 +7,38 @@ By leveraging advanced natural language processing techniques and machine learni
 With the Social Media Sentiment Analysis repository, organizations can better understand public sentiment towards their brand, products, or events, allowing them to make data-driven decisions, engage with customers effectively, and identify areas for improvement.
 
 This repository includes all the necessary code, datasets, and documentation to train, evaluate, and deploy the sentiment analysis model. Additionally, it provides instructions on how to use the model and integrate it into existing applications or workflows. Feel free to explore the repository, contribute enhancements, and adapt the model to specific use cases.
+
+
+## Directory Structure
+
+```bash
+├── Data Preprocessing.py       # Python script for data preprocessing
+├── README.md                   # Project documentation
+├── Sentiment Analysis.txt       # Notes or analysis summary
+├── SocialSense.pptx             # Project presentation
+├── submission.csv               # CSV file for submission
+├── test.csv                     # Testing dataset
+├── train.csv                    # Training dataset
+```
+
+## Features
+
+- Sentiment classification using machine learning
+- NLP-based data preprocessing
+- Custom models for sentiment analysis
+
+## Usage
+
+1. Clone the repository
+2. Install dependencies
+3. Run the `Data Preprocessing.py` for data cleaning and preprocessing
+4. Train and evaluate models using `train.csv` and `test.csv`
+
+## Datasets
+
+- **train.csv:** Contains the training data for sentiment analysis.
+- **test.csv:** Used to evaluate the model's accuracy.
+
+## License
+
+This project is licensed under MIT.
